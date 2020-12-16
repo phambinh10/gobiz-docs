@@ -94,6 +94,7 @@
     * [Cấu hình và phân quyền cho thành viên trong dự án ](m27/phanquyen.md)
     * [Cấu hình trạng thái](m27/config_status.md)
     * [Cấu hình danh mục (Loại ticket, Mức độ ưu tiên, Phạm vi liên quan)](m27/config_category.md)
+    * [Cấu hình thông báo](m27/config_remind_ticket.md)
     
   * Hướng dẫn sử dụng cho thành viên dự án
     * [Giới thiệu chung](m27/gioithieuchung.md)
@@ -102,6 +103,7 @@
     * [Tạo mới ticket](m27/create_ticket.md)   
     * [Xem danh sách ticket](m27/list_ticket.md)  
     * [Xem chi tiết và cập nhật ticket](m27/update_ticket.md) 
+    * [Đánh gía sao cho ticket](m27/Rate_ticket.md)
     * [Bình luận trên ticket](m27/comment_ticket.md) 
     * [Nhận thông báo ticket qua Dingtalk](m27/notification_ticket.md)
     * [Nhận thông báo ticket qua Zalo](m27/zalo_ticket.md)

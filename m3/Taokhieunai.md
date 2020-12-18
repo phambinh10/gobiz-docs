@@ -4,6 +4,6 @@
 
 **Bước 1:** Tại màn hình **Danh sách khiếu nại** nhân viên chọn **Tạo khiếu nại**
 
-<img width="1313" alt="Screen Shot 2020-11-03 at 14 16 03" src="https://prnt.sc/w53bj7">
+<img width="1313" alt="Screen Shot 2020-11-03 at 14 16 03" src="0d1fd4f148596dbb8e5b3ec8d94d0cb8.jpg">
 
 
